@@ -8,6 +8,10 @@
     <version>0.0.1-SNAPSHOT</version>
     <packaging>jar</packaging>
 
+    <modules>
+        <module>config-server</module>
+        <module>config-client</module>
+    </modules>
     <name>hushasy</name>
     <description>Demo project for Spring Boot</description>
 
